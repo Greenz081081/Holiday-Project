@@ -1,0 +1,20 @@
+{
+  "name": "holiday-projects",
+  "version": "1.0.0",
+  "description": "This is a project on Web Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GitHub"
+  },
+  "author": "Emediong Edet",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
